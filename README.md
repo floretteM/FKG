@@ -1,2 +1,4 @@
 # FKG
-Algorithms to attack the fast knapsack Generator
+Algorithms to attack the Fast Knapsack Generator
+
+Please load LCG.sage
